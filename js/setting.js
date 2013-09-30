@@ -10,7 +10,7 @@ Taxes.taxRate = 0.06; // 住民税率
 
 var OpenSpending = OpenSpending || {};
 
-OpenSpending.identifier = 'yokohama_budget';
+OpenSpending.identifier = 'tachikawa_2012_kessann';
 OpenSpending.year = '2012';
 
 OpenSpending.Styles = OpenSpending.Styles || {};
